@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Islamic 8-point star (Rub el Hizb) in Royal Gold -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,14 L82,26 L94,54 L82,82 L54,94 L26,82 L14,54 L26,26 Z"
+        android:strokeWidth="2.5"
+        android:strokeColor="#D4AF37" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M24,24 L84,24 L84,84 L24,84 Z"
+        android:strokeWidth="2"
+        android:strokeColor="#D4AF37" />
+
+    <!-- Heritage Shield -->
+    <path
+        android:fillColor="#064E3B"
+        android:pathData="M54,22 L78,32 L78,56 C78,72 67,82 54,88 C41,82 30,72 30,56 L30,32 Z"
+        android:strokeWidth="2.4"
+        android:strokeColor="#D4AF37" />
+
+    <!-- Family Tree Trunk & Branches inside Shield -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,75 L54,44 M54,58 L41,47 M54,58 L67,47 M54,47 L46,38 M54,47 L62,38"
+        android:strokeWidth="2.6"
+        android:strokeColor="#D4AF37"
+        android:strokeLineCap="round" />
+
+    <!-- Root & Canopy Gold Nodes -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M54,32 m-3.5,0 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M41,47 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M67,47 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M46,38 m-2.5,0 a2.5,2.5 0 1,0 5,0 a2.5,2.5 0 1,0 -5,0" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M62,38 m-2.5,0 a2.5,2.5 0 1,0 5,0 a2.5,2.5 0 1,0 -5,0" />
+</vector>

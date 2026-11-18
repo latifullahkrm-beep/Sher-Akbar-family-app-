@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">شیر اکبر فیملی ایپ</string>
+    <string name="welcome_title">شیر اکبر خاندان میں خوش آمدید</string>
+    <string name="welcome_subtitle">نسلوں پر محیط ہماری میراث، شجرہ نسب اور خاندانی روابط کی حفاظت</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_home">ہوم</string>
+    <string name="nav_tree">شجرہ نسب</string>
+    <string name="nav_members">اراکین</string>
+    <string name="nav_gallery">گیلری</string>
+    <string name="nav_more">مزید</string>
+
+    <!-- Home Stats -->
+    <string name="stat_total_members">کل اراکین</string>
+    <string name="stat_male_members">مرد اراکین</string>
+    <string name="stat_female_members">خواتین اراکین</string>
+    <string name="stat_generations">نسلیں</string>
+    <string name="quick_access">فوری رسائی</string>
+    <string name="latest_announcements">تازہ ترین اعلانات</string>
+    <string name="recently_added_members">حال ہی میں شامل اراکین</string>
+    <string name="family_photo_highlights">خاندانی تصاویر کی جھلکیاں</string>
+
+    <!-- More & Settings -->
+    <string name="family_news">خاندانی خبریں</string>
+    <string name="announcements">اعلانات</string>
+    <string name="about_family">ہمارے خاندان کے بارے میں</string>
+    <string name="contact_admin">ایڈمن سے رابطہ</string>
+    <string name="settings">ترتیبات</string>
+    <string name="admin_panel">ایڈمن پینل</string>
+    <string name="logout">لاگ آؤٹ</string>
+    <string name="dark_mode">ڈارک موڈ</string>
+    <string name="language">زبان</string>
+    <string name="notifications">اطلاعات</string>
+    <string name="english">English</string>
+    <string name="urdu">اردو (Urdu)</string>
+
+    <!-- Auth & Security -->
+    <string name="sign_in">لاگ ان کریں</string>
+    <string name="register">رجسٹر کریں</string>
+    <string name="forgot_password">پاس ورڈ بھول گئے؟</string>
+    <string name="reset_password">پاس ورڈ تبدیل کریں</string>
+    <string name="email">ای میل ایڈریس</string>
+    <string name="password">پاس ورڈ</string>
+    <string name="full_name">مکمل نام</string>
+    <string name="pending_approval">آپ کا اکاؤنٹ ایڈمن کی منظوری کا منتظر ہے</string>
+
+    <!-- Actions -->
+    <string name="add_member">نیا رکن شامل کریں</string>
+    <string name="edit">ترمیم</string>
+    <string name="delete">حذف کریں</string>
+    <string name="share">شیئر کریں</string>
+    <string name="save">محفوظ کریں</string>
+    <string name="cancel">منسوخ کریں</string>
+    <string name="confirm_delete_title">حذف کرنے کی تصدیق</string>
+    <string name="confirm_delete_message">کیا آپ واقعی اس ریکارڈ کو حذف کرنا چاہتے ہیں؟ یہ عمل واپس نہیں ہو سکے گا۔</string>
+    <string name="search_members">نام، والد یا شہر سے تلاش کریں...</string>
+</resources>
